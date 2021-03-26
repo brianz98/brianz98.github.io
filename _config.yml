@@ -6,7 +6,7 @@ highlighter:      Rouge
 permalink:        pretty
 
 # Setup
-title:            brianz98
+title:            Brian Zhao
 tagline:          'Computational chemistry student'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
@@ -18,7 +18,10 @@ author:
 
 paginate:         5
 
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Custom vars
 version:          2.1.0
