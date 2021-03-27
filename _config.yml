@@ -11,14 +11,15 @@ title:            Brian Zhao
 tagline:          'Computational Chemistry Student'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
-baseurl:          /
 
 author:
   name:           'Brian Zhao'
 
 paginate:         5
 plugins:
-  [jekyll-paginate]
+  - jekyll-paginate
+  - jekyll-gist
+
 
 # Custom vars
 version:          2.1.0
