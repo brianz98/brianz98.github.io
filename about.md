@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-I am Brian, a third-year student at the University of Cambridge studying Chemistry under the Natural Sciences course. 
+I am Brian (Zijun if you can manage that), a third-year student at the University of Cambridge studying Chemistry under the Natural Sciences course. 
 
 My long-term goal is to develop multiscale simulation systems to effectively and efficiently harness the power of computational methods to shed light on the most important questions in life - protein (mis)folding, atmospheric chemistry, to name a few. 
 
