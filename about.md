@@ -2,29 +2,29 @@
 layout: page
 title: About
 ---
+I am Brian, a third-year student at the University of Cambridge studying Chemistry under the Natural Sciences course. 
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My long-term goal is to develop multiscale simulation systems to effectively and efficiently harness the power of computational methods to shed light on the most important questions in life - protein (mis)folding, atmospheric chemistry, to name a few. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In the short run however I'm primarily focussed on getting the basics right, which means stuff like electronic structure theory, and its limits, which you're gonna see a fair bit of ramblings on in by [blog](https://brianz98.github.io/blog/).
 
-There are currently two themes built on Poole:
+Over my three years of undergraduate education I've done the following courses:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- First year (2018, Part IA, first class)
+	- Chemistry
+	- Physics
+	- Biology of Cells
+	- Mathematics B
+- Second year (2019, Part IB, unclassed due to COVID, received a college scholarship usually for first class students, based on internal rankings)
+	- Chemistry A (theoretical)
+	- Chemistry B ((in)organic, biological)
+	- Pharmacology
+- Third year (Chemistry, 2020, Part II)
+	- See more on the details of each course [here](https://www.ch.cam.ac.uk/teaching/course-guides)
+	- Core courses on (in)organic, spectroscopy, theory; preparative, physical and theoretical practicals; chemical informatics
+	- Elective courses on 
+		- Biological: biological catalysis (B3), proteins (C5), nucleic acids (C9)
+		- Organic (B2, C5)
+		- Theory: statistical mechanics (B4), group theory (B7), perturbation theory (C7), electronic structure theory (C8)
+		- Others: organometallic catalysis (B1 part 2), atmospheric chemistry (B4), physical chemistry (C11)
+	- Further modules on scientific programming in Python, mathematical methods, extended theoretical practicals
