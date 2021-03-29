@@ -18,6 +18,8 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 
 ### Hyde features
 
+Testing out Mathjax: $$x=y^2$$
+
 In addition to the features of Poole, Hyde adds the following:
 
 * Sidebar includes support for textual modules and a dynamically generated navigation with active link support
